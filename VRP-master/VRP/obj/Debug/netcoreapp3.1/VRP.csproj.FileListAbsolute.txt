@@ -1,0 +1,45 @@
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.exe
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.deps.json
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.json
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.dev.json
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.dll
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\VRP.pdb
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfo.cs
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.dll
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.pdb
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.genruntimeconfig.cache
+C:\Users\Michał\source\repos\VRP\VRP\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\VRP\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CopyComplete
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.exe
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.deps.json
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.json
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.dev.json
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.dll
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.pdb
+D:\Downloads D\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csprojAssemblyReference.cache
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfoInputs.cache
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfo.cs
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CoreCompileInputs.cache
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CopyComplete
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.dll
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.pdb
+D:\Downloads D\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.genruntimeconfig.cache
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.exe
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.deps.json
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.json
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.runtimeconfig.dev.json
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.dll
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\VRP.pdb
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\bin\Debug\netcoreapp3.1\LumenWorks.Framework.IO.dll
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csprojAssemblyReference.cache
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfoInputs.cache
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.AssemblyInfo.cs
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CoreCompileInputs.cache
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.csproj.CopyComplete
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.dll
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.pdb
+D:\Downloads D\Bartek\VRP-master\VRP-master\VRP\obj\Debug\netcoreapp3.1\VRP.genruntimeconfig.cache
